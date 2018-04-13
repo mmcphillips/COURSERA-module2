@@ -1,0 +1,39 @@
+
+html {
+background-color:#6d6e71;
+}
+body {
+  color: #fff;
+  background-color:#6d6e71;
+
+}
+
+.container {
+margin-top:5%;
+background-color:#6d6e71;
+border: 1px solid #fff;
+border-radius:20px;
+}
+
+.button {
+border-radius:25px;
+}
+
+.col-centered{
+float: none;
+margin: 0 auto;
+}
+.text-centered {
+  text-align:center;
+}
+
+#buylist {
+  background-color:#a0bfb1;
+  border-radius:20px 20px 0 0;
+}
+
+#boughtlist {
+  background-color:#A0BDBD;
+  border-radius:0 0 20px 20px;
+
+}
